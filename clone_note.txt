@@ -1,0 +1,8 @@
+clone_note.txt
+
+
+i just created Empty Remote Repository from GitHub.com account. I clicked on + add new repository and gave it a name
+
+And Cloned this repository by clicking on Set up in Desktop and click on Clone
+
+It cloned our remote repo to local so we start working locally
